@@ -7,9 +7,9 @@ on:
     inputs:
       # Change this value
       solution_name:
-        description: 'name of the solution to worked on from Power Platform'
+        description: 'Power Platform Github Actions'
         required: true
-        default: ALMLab
+        default: PPALMActions
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
