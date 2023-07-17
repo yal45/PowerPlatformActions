@@ -9,7 +9,7 @@ on:
       solution_name:
         description: 'Power Platform Github Actions'
         required: true
-        default: PPALMActions
+        default: PP ALM - Github Action App
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
